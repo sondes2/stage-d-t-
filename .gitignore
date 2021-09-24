@@ -44,4 +44,7 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+<<<<<<< HEAD
 src/assets/plugins/popper/esm/popper.min.js
+=======
+>>>>>>> 30b67f456470e371458781d9e7e7f0e5abb39f65
